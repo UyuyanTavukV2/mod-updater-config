@@ -1,0 +1,38 @@
+minecraft_version: "1.21.11"
+loader: neoforge
+
+mods:
+  - name: lootr
+    modrinth_id: lootr
+    side: both
+    auto_update: true
+
+  - name: jei
+    modrinth_id: jei
+    side: both
+    auto_update: true
+
+  - name: gravestone
+    modrinth_id: gravestone
+    side: both
+    auto_update: true
+
+  - name: travelers-backpack
+    modrinth_id: travelers-backpack
+    side: both
+    auto_update: true
+
+  - name: curios
+    modrinth_id: curios
+    side: both
+    auto_update: true
+
+  - name: simple-voice-chat
+    modrinth_id: simple-voice-chat
+    side: client
+    auto_update: true
+
+  - name: the-awakening
+    modrinth_id: the-awakening
+    side: both
+    auto_update: true
